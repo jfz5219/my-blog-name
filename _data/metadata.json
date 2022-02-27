@@ -1,0 +1,21 @@
+{
+  "title": "11ty Practice",
+  "url": "https://11tyPractice.com/",
+  "language": "en",
+  "description": "I am writing about my experience on 11ty.",
+  "feed": {
+    "subtitle": "11ty?.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://11tyPractice.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Jiaxi Zheng",
+    "email": "jfz5219@psu.edu",
+    "url": "https://11tyPractice.com/about-me/"
+  }
+}
